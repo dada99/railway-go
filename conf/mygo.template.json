@@ -47,7 +47,7 @@
                     {
                     "id": "${Vmess_UUID}",
                     "level": 0,
-                    "alterId": 0,
+                    "alterId": 10,
                     "email": "love@xray.com"
                     }
                 ],
